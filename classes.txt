@@ -1,0 +1,59 @@
+1. Class: Tree
+- Attributes: name, height, age, type, leaf_color
+- Methods: grow(), display(), produce_fruits(), shed_leaves(), calculate_age()
+
+2. Class: Laptop
+- Attributes: brand, model, battery, ram, storage, price
+- Methods: charge(), display(), shutdown(), restart(), upgrade_ram()
+
+3. Class: River
+- Attributes: name, length, depth, location, water_level
+- Methods: flow(), display(), increase_water_level(), check_depth(), change_course()
+
+4. Class: Planet
+- Attributes: name, moons, diameter, mass, distance_from_sun
+- Methods: rotate(), display(), revolve(), calculate_gravity(), show_moons()
+
+5. Class: Camera
+- Attributes: brand, model, megapixels, battery, zoom_level, storage
+- Methods: take_photo(), display(), record_video(), zoom_in(), charge_battery()
+
+6. Class: Smartphone
+- Attributes: brand, model, battery, storage, ram, screen_size
+- Methods: make_call(), send_message(), charge(), install_app(), take_screenshot()
+
+7. Class: Fish
+- Attributes: species, color, weight, age, water_type
+- Methods: swim(), eat(), display(), breathe(), change_direction()
+
+8. Class: Bicycle
+- Attributes: brand, color, gear_count, speed, wheel_size
+- Methods: pedal(), brake(), change_gear(), display(), ring_bell()
+
+9. Class: Book
+- Attributes: title, author, price, pages, genre, publication_year
+- Methods: read(), display(), bookmark_page(), calculate_reading_time(), check_genre()
+
+10. Class: Robot
+- Attributes: name, battery_level, speed, weight, model
+- Methods: move(), stop(), charge(), speak(), perform_task()
+
+11. Class: Airplane
+- Attributes: airline, model, capacity, fuel_level, altitude, speed
+- Methods: take_off(), land(), fly(), increase_altitude(), display_status()
+
+12. Class: Flower
+- Attributes: name, color, fragrance, petal_count, height
+- Methods: bloom(), wilt(), display(), release_fragrance(), grow()
+
+13. Class: House
+- Attributes: address, color, rooms, floors, area, price
+- Methods: open_door(), close_door(), paint(), calculate_area(), display_details()
+
+14. Class: WashingMachine
+- Attributes: brand, capacity, mode, water_level, power_status
+- Methods: start_wash(), stop_wash(), rinse(), spin(), change_mode()
+
+15. Class: Moon
+- Attributes: name, diameter, mass, orbit_period, planet_name
+- Methods: revolve(), display(), calculate_orbit(), show_planet(), reflect_sunlight()
